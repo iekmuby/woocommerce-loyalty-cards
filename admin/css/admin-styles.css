@@ -1,0 +1,8 @@
+#card-data, #card-data td input {
+	width: 100%;
+}
+
+.column-sha_wlc_user_id, .column-sha_wlc_discount {
+	text-align: center !important;
+	width: 100px;
+}

@@ -1,0 +1,14 @@
+#loyalty-card {
+	margin-bottom: 20px;
+}
+
+#loyalty-card .loyalty-card-input img {
+	display: inline;
+	margin-right: 5px;
+}
+
+#loyalty-card .loyalty-card-input input[type="text"] {
+    display: inline-block;
+    width: 200px;
+    margin: 0;
+}
